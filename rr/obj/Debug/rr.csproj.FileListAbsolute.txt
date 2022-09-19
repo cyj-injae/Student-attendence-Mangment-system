@@ -1,0 +1,145 @@
+C:\Users\User\source\repos\rr\rr\bin\Debug\rr.exe.config
+C:\Users\User\source\repos\rr\rr\bin\Debug\rr.exe
+C:\Users\User\source\repos\rr\rr\bin\Debug\rr.pdb
+C:\Users\User\source\repos\rr\rr\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\source\repos\rr\rr\obj\Debug\rr.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\rr\rr\obj\Debug\rr.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\rr\rr\obj\Debug\rr.Form1.resources
+C:\Users\User\source\repos\rr\rr\obj\Debug\rr.Properties.Resources.resources
+C:\Users\User\source\repos\rr\rr\obj\Debug\rr.csproj.GenerateResource.cache
+C:\Users\User\source\repos\rr\rr\obj\Debug\rr.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\rr\rr\obj\Debug\rr.csproj.CopyComplete
+C:\Users\User\source\repos\rr\rr\obj\Debug\rr.exe
+C:\Users\User\source\repos\rr\rr\obj\Debug\rr.pdb
+G:\Data Analytics\rr\rr\bin\Debug\rr.exe.config
+G:\Data Analytics\rr\rr\bin\Debug\rr.exe
+G:\Data Analytics\rr\rr\bin\Debug\rr.pdb
+G:\Data Analytics\rr\rr\obj\Debug\rr.csproj.AssemblyReference.cache
+G:\Data Analytics\rr\rr\obj\Debug\rr.csproj.SuggestedBindingRedirects.cache
+G:\Data Analytics\rr\rr\obj\Debug\rr.Form1.resources
+G:\Data Analytics\rr\rr\obj\Debug\rr.Properties.Resources.resources
+G:\Data Analytics\rr\rr\obj\Debug\rr.csproj.GenerateResource.cache
+G:\Data Analytics\rr\rr\obj\Debug\rr.csproj.CoreCompileInputs.cache
+G:\Data Analytics\rr\rr\obj\Debug\rr.exe
+G:\Data Analytics\rr\rr\obj\Debug\rr.pdb
+G:\Data Analytics\rr\rr\obj\Debug\rr.MainForm.resources
+G:\Data Analytics\rr\rr\obj\Debug\rr.Form3.resources
+B:\rr\rr\bin\Debug\rr.exe.config
+B:\rr\rr\bin\Debug\rr.exe
+B:\rr\rr\bin\Debug\rr.pdb
+B:\rr\rr\obj\Debug\rr.csproj.AssemblyReference.cache
+B:\rr\rr\obj\Debug\rr.csproj.SuggestedBindingRedirects.cache
+B:\rr\rr\obj\Debug\rr.Form1.resources
+B:\rr\rr\obj\Debug\rr.Form3.resources
+B:\rr\rr\obj\Debug\rr.MainForm.resources
+B:\rr\rr\obj\Debug\rr.Properties.Resources.resources
+B:\rr\rr\obj\Debug\rr.csproj.GenerateResource.cache
+B:\rr\rr\obj\Debug\rr.csproj.CoreCompileInputs.cache
+B:\rr\rr\obj\Debug\rr.exe
+B:\rr\rr\obj\Debug\rr.pdb
+D:\rr\rr\bin\Debug\rr.exe.config
+D:\rr\rr\bin\Debug\rr.exe
+D:\rr\rr\bin\Debug\rr.pdb
+D:\rr\rr\obj\Debug\rr.csproj.AssemblyReference.cache
+D:\rr\rr\obj\Debug\rr.csproj.SuggestedBindingRedirects.cache
+D:\rr\rr\obj\Debug\rr.Form1.resources
+D:\rr\rr\obj\Debug\rr.Form3.resources
+D:\rr\rr\obj\Debug\rr.MainForm.resources
+D:\rr\rr\obj\Debug\rr.Properties.Resources.resources
+D:\rr\rr\obj\Debug\rr.csproj.GenerateResource.cache
+D:\rr\rr\obj\Debug\rr.csproj.CoreCompileInputs.cache
+D:\rr\rr\obj\Debug\rr.exe
+D:\rr\rr\obj\Debug\rr.pdb
+C:\Users\7\Desktop\rr\rr\bin\Debug\rr.exe.config
+C:\Users\7\Desktop\rr\rr\bin\Debug\rr.exe
+C:\Users\7\Desktop\rr\rr\bin\Debug\rr.pdb
+C:\Users\7\Desktop\rr\rr\obj\Debug\rr.csproj.AssemblyReference.cache
+C:\Users\7\Desktop\rr\rr\obj\Debug\rr.csproj.SuggestedBindingRedirects.cache
+C:\Users\7\Desktop\rr\rr\obj\Debug\rr.Form1.resources
+C:\Users\7\Desktop\rr\rr\obj\Debug\rr.Form3.resources
+C:\Users\7\Desktop\rr\rr\obj\Debug\rr.MainForm.resources
+C:\Users\7\Desktop\rr\rr\obj\Debug\rr.Properties.Resources.resources
+C:\Users\7\Desktop\rr\rr\obj\Debug\rr.csproj.GenerateResource.cache
+C:\Users\7\Desktop\rr\rr\obj\Debug\rr.csproj.CoreCompileInputs.cache
+C:\Users\7\Desktop\rr\rr\obj\Debug\rr.exe
+C:\Users\7\Desktop\rr\rr\obj\Debug\rr.pdb
+C:\Users\7\Desktop\New folder\rr\rr\bin\Debug\rr.exe.config
+C:\Users\7\Desktop\New folder\rr\rr\bin\Debug\rr.exe
+C:\Users\7\Desktop\New folder\rr\rr\bin\Debug\rr.pdb
+C:\Users\7\Desktop\New folder\rr\rr\obj\Debug\rr.csproj.AssemblyReference.cache
+C:\Users\7\Desktop\New folder\rr\rr\obj\Debug\rr.csproj.SuggestedBindingRedirects.cache
+C:\Users\7\Desktop\New folder\rr\rr\obj\Debug\rr.Form1.resources
+C:\Users\7\Desktop\New folder\rr\rr\obj\Debug\rr.Form3.resources
+C:\Users\7\Desktop\New folder\rr\rr\obj\Debug\rr.MainForm.resources
+C:\Users\7\Desktop\New folder\rr\rr\obj\Debug\rr.Properties.Resources.resources
+C:\Users\7\Desktop\New folder\rr\rr\obj\Debug\rr.csproj.GenerateResource.cache
+C:\Users\7\Desktop\New folder\rr\rr\obj\Debug\rr.csproj.CoreCompileInputs.cache
+C:\Users\7\Desktop\New folder\rr\rr\obj\Debug\rr.exe
+C:\Users\7\Desktop\New folder\rr\rr\obj\Debug\rr.pdb
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\rr.exe.config
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\rr.exe
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\rr.pdb
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.Shared.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\stdole.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\obj\Debug\rr.csproj.AssemblyReference.cache
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\obj\Debug\rr.Form1.resources
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\obj\Debug\rr.Form3.resources
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\obj\Debug\rr.MainForm.resources
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\obj\Debug\rr.Properties.Resources.resources
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\obj\Debug\rr.csproj.GenerateResource.cache
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\obj\Debug\rr.csproj.CoreCompileInputs.cache
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\obj\Debug\rr.csproj.CopyComplete
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\obj\Debug\rr.exe
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\obj\Debug\rr.pdb
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\AxShockwaveFlashObjects.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\bin\Debug\ShockwaveFlashObjects.dll
+E:\c++ proplem\WindowsFormsApp1\New folder\rr\rr\obj\Debug\rr.Repport_form.resources
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\rr.exe.config
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\rr.exe
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\rr.pdb
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\stdole.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\obj\Debug\rr.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\obj\Debug\rr.Form1.resources
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\obj\Debug\rr.Form3.resources
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\obj\Debug\rr.MainForm.resources
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\obj\Debug\rr.Properties.Resources.resources
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\obj\Debug\rr.Repport_form.resources
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\obj\Debug\rr.csproj.GenerateResource.cache
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\obj\Debug\rr.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\obj\Debug\rr.csproj.CopyComplete
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\obj\Debug\rr.exe
+C:\Users\User\Downloads\[Main_Stream]_[84]_[Student attendence Mangment system]\rr\rr\obj\Debug\rr.pdb
